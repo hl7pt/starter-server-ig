@@ -1,3 +1,5 @@
-# ig-template-affiliate
+# HL7 affiliate FHIR IG template
+This is the FHIR IG publisher template for HL7 Affiliate IGs
 
-Make a copy of this template and adapt it to your local affiliates needs - eg. replacing all instances of the name of the fictional state of Illyria with the name of your country/region.
+This template should be used by HL7 affiliates that do not have their own template, and can serve as a base for the affiliates' own ID
+

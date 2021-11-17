@@ -1,24 +1,15 @@
 ﻿{
-  "package-id": "hl7.iy.fhir.template",
-  "title": "Base template for FHIR IGs published by HL7 Illyria",
-  "canonical": "http://fhir.org/templates/hl7.iy.fhir.template",
-  "introduction": "This is the basic template for FHIR Guides published by HL7 Illyria",
+  "package-id": "hl7.fhir.affiliate.template",
+  "title": "Template for FHIR IGs published by HL7 affiliates",
+  "canonical": "http://fhir.org/templates/hl7.fhir.affiliate.template",
+  "introduction": "This is the template for FHIR guides published by the Affiliate",
   "list": [
     {
       "version": "current",
       "desc": "Continuous Integration Build (latest in version control)",
-      "path": "http://github.com/hl7/ig-template-affiliate",
+      "path": "https://build.fhir.org/ig/HL7/ig-template-affiliate",
       "status": "ci-build",
       "current": true
-    },
-    {
-      "version": "0.0.1",
-      "desc": "First release",
-      "path": "http://fhir.org/templates/hl7.iy.fhir.template/0.0.1",
-      "status": "release",
-      "sequence": "Publications",
-      "current": true,
-      "date": "2021-09-03"
     }
   ]
 }
