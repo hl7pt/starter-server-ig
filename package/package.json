@@ -1,0 +1,13 @@
+{
+  "name": "hl7.iy.fhir.template",
+  "version": "0.0.1",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "HL7 Illyria Template - for use with HL7 Illyria-published FHIR IGs",
+  "author": "http://github.com/hl7iy",
+  "canonical": "http://github.com/hl7/ig-template-affiliate",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}
