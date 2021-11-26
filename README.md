@@ -1,5 +1,4 @@
-# HL7 affiliate FHIR IG template
-This is the FHIR IG publisher template for HL7 Affiliate IGs
+# HL7 Portugal affiliate FHIR IG template
 
-This template should be used by HL7 affiliates that do not have their own template, and can serve as a base for the affiliates' own ID
+The HL7 Portugal FHIR Template - for HL7 community standards
 
